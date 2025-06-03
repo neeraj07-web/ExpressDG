@@ -1,0 +1,1 @@
+console.log("Hello from Section 21, Exercise 3!");
